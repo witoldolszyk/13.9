@@ -1,0 +1,20 @@
+body {
+  background: #364E55;
+}
+
+div {
+  background-color: #A4474B;
+  margin: 20px;
+  text-align: center;
+  color: #F1EEEC;
+  padding:20px;
+  max-width: 300px;
+}
+.btn {
+  background: #79A1BB;
+  padding: 10px;
+  color: white;
+  border-radius: 30px;
+  width: 100px;
+  border: solid 3px #364E55;
+}
